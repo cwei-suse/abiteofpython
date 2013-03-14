@@ -10,3 +10,5 @@ add file to git.
 git add file.py or .
 git commit
 git push
+
+git常用命令解说 google
